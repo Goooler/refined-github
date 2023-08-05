@@ -60,7 +60,7 @@
 		"image-promise": "^7.0.1",
 		"indent-textarea": "^3.0.0",
 		"js-abbreviation-number": "^1.4.0",
-		"linkify-issues": "2.0.0-nolookbehind",
+		"linkify-issues": "2.0.0",
 		"linkify-urls": "3.1.0-nolookbehind",
 		"mem": "^9.0.2",
 		"one-event": "^3.1.0",
